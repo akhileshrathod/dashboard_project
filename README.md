@@ -1,2 +1,2 @@
 # dashboard_project
-started with a simple dashboard project after completing excel course.
+started with a simple dashboard project to showcase my learning in Excel.
